@@ -610,6 +610,7 @@ section{
 .contact .box-container .box p{
     font-size: 1.5rem;
     color:var(--secondary-text-color);
+    text-transform: lowercase;
 }
 
 .footer{
